@@ -1,6 +1,6 @@
 {
   "name": "stimulus-existence",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stimulus controller to remove elements from the dom, and be notified with an event when they are added.",
   "main": "dist/stimulus-existence.js",
   "scripts": {
