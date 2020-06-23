@@ -1,0 +1,46 @@
+{
+  "name": "stimulus-existence",
+  "version": "1.0.1",
+  "description": "Stimulus controller to remove elements from the dom, and be notified with an event when they are added.",
+  "main": "dist/stimulus-existence.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack --env dev && webpack --env build"
+  },
+  "keywords": [
+    "stimulus",
+    "existence",
+    "hide",
+    "show"
+  ],
+  "author": "Joshua Harris <joshuaweharris@googlemail.com>",
+  "licence": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/plugin-transform-runtime": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/runtime": "^7.10.3",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "eslint": "^7.3.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "stimulus": "^1.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Circuit8/stimulus-existence/issues"
+  },
+  "homepage": "https://github.com/Circuit8/stimulus-existence",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Circuit8/stimulus-existence.git"
+  }
+}
