@@ -1,6 +1,6 @@
 {
   "name": "stimulus-existence",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Stimulus controller to remove elements from the dom, and be notified with an event when they are added.",
   "main": "dist/stimulus-existence.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "stimulus": "^1.1.1"
+    "stimulus": "~1.1.1||~2.0"
   },
   "bugs": {
     "url": "https://github.com/Circuit8/stimulus-existence/issues"
