@@ -1,6 +1,6 @@
 {
   "name": "stimulus-existence",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Stimulus controller to remove elements from the dom, and be notified with an event when they are added.",
   "main": "dist/stimulus-existence.js",
   "scripts": {
@@ -36,11 +36,11 @@
     "stimulus": "~1.1.1||~2.0"
   },
   "bugs": {
-    "url": "https://github.com/Circuit8/stimulus-existence/issues"
+    "url": "https://gitlab.com/initforthe/stimulus-existence"
   },
-  "homepage": "https://github.com/Circuit8/stimulus-existence",
+  "homepage": "https://gitlab.com/initforthe/stimulus-existence",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Circuit8/stimulus-existence.git"
+    "url": "https://gitlab.com/initforthe/stimulus-existence.git"
   }
 }
